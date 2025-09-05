@@ -22,5 +22,5 @@ public class CuentaBancaria {
     }
 
 }
-// Le pregunte a copilot de como hacer el ejercicio y me dijo que usara la variable if y else if para hacer el ejercicio
+// Le pregunte a copilot de como hacer el ejercicio y me dijo que usara la condicional if y else if para hacer el ejercicio
 // aunque no la terminer de entender muy bien como funciona pero creo que si le coji un poquito el tiro
