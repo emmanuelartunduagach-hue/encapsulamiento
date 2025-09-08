@@ -7,5 +7,5 @@ public class Main {
         cuenta.retirar(200); // aca se poner lo que usted quiera retirar ( la cantidad )
         System.out.println("Saldo actual: " + cuenta.getSaldo());
     }
-        }
+}
 
